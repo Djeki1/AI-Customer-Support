@@ -10,6 +10,6 @@ wheels/
 .venv
 
 .env
-credential.json
+credentials.json
 node_modules/
 dashboard/dist/
